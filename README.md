@@ -4,23 +4,6 @@ A modern **Login & Signup UI** built using **HTML, CSS, and JavaScript** featuri
 
 ---
 
-## 📑 Table of Contents
-
-* [Overview](#overview)
-* [Features](#features)
-* [UI Highlights](#ui-highlights)
-* [Tech Stack](#tech-stack)
-* [Project Structure](#project-structure)
-* [How to Run](#how-to-run)
-* [Form Logic](#form-logic)
-* [Limitations](#limitations)
-* [Future Enhancements](#future-enhancements)
-* [Preview](#preview)
-* [Author](#author)
-* [Support](#support)
-
----
-
 ## 📌 Overview
 
 This project provides a **stylish authentication interface** with Login and Signup modes. It includes animated background gradients, glassmorphism cards, glowing inputs, and smooth transitions between authentication states.
